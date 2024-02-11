@@ -13,6 +13,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 50px;
 }
 
 .half-width {
@@ -22,6 +23,7 @@ section {
 
 p {
     text-align: justify;
+    margin-bottom: 30px;
 }
 
 .half-width-img {
@@ -41,4 +43,9 @@ p {
     background-repeat: no-repeat;
     background-position: bottom right;
 
+}
+
+.dream-sec {
+    background-image: url(images/developer.png);
+    background-repeat: no-repeat;
 }
